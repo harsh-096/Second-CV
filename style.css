@@ -67,30 +67,30 @@ a:hover {
 
 .top-cloud {
     position: absolute;
-    right: 200px;
-    top: 40px;
+    right: 12%;
+    top: 8%;
 }
 
 .left-cloud {
-    bottom: 350px;
+    bottom: 56%;
     height: 50px;
-    left: 200px;
+    left: 15%;
     position: absolute;
     width: 175px;
 }
 
 .right-cloud {
-    bottom: 275px;
+    bottom: 42%;
     height: 30px;
     position: absolute;
-    right: 350px;
+    right: 32%;
     width: 100px;
 }
 
 .mountain {
     bottom: 2%;
     height: 370px;
-    left: 26%;
+    left: 30%;
     position: absolute;
     top: 45%;
     width: 610px;
